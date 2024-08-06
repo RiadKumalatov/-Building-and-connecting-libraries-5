@@ -1,0 +1,10 @@
+^D:\STUDY\BUILDING-AND-CONNECTING-LIBRARIES-5\BUILD\CMAKEFILES\FB5B3265955C9BD21AB40343E3752228\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Study/Building-and-connecting-libraries-5 -BD:/Study/Building-and-connecting-libraries-5/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Study/Building-and-connecting-libraries-5/build/ShapesLibrary.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

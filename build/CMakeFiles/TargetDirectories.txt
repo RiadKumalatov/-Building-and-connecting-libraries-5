@@ -1,0 +1,4 @@
+D:/Study/Building-and-connecting-libraries-5/build/CMakeFiles/Shapes.dir
+D:/Study/Building-and-connecting-libraries-5/build/CMakeFiles/ShapesApp.dir
+D:/Study/Building-and-connecting-libraries-5/build/CMakeFiles/ALL_BUILD.dir
+D:/Study/Building-and-connecting-libraries-5/build/CMakeFiles/ZERO_CHECK.dir

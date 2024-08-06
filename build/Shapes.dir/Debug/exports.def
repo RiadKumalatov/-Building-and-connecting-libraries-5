@@ -1,0 +1,54 @@
+EXPORTS 
+	??_R0?AVEquilateralTriangle@@@8 	 DATA
+	??_R0?AVIsoscelesTriangle@@@8 	 DATA
+	??_R0?AVParallelogram@@@8 	 DATA
+	??_R0?AVQuadrangle@@@8 	 DATA
+	??_R0?AVRectangle@@@8 	 DATA
+	??_R0?AVRhombus@@@8 	 DATA
+	??_R0?AVRightTriangle@@@8 	 DATA
+	??_R0?AVShape@@@8 	 DATA
+	??_R0?AVSquare@@@8 	 DATA
+	??_R0?AVTriangle@@@8 	 DATA
+	??$?6U?$char_traits@D@std@@@std@@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@0@AEAV10@PEBD@Z
+	??0EquilateralTriangle@@QEAA@N@Z
+	??0IsoscelesTriangle@@QEAA@NNNN@Z
+	??0Parallelogram@@QEAA@NNNN@Z
+	??0Quadrangle@@QEAA@NNNNNNNN@Z
+	??0Rectangle@@QEAA@NN@Z
+	??0Rhombus@@QEAA@NNN@Z
+	??0RightTriangle@@QEAA@NNNNN@Z
+	??0Shape@@QEAA@XZ
+	??0Square@@QEAA@N@Z
+	??0Triangle@@QEAA@NNNNNN@Z
+	??0_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+	??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@AEAV12@@Z
+	??1EquilateralTriangle@@UEAA@XZ
+	??1IsoscelesTriangle@@UEAA@XZ
+	??1Parallelogram@@UEAA@XZ
+	??1Quadrangle@@UEAA@XZ
+	??1Rectangle@@UEAA@XZ
+	??1Rhombus@@UEAA@XZ
+	??1RightTriangle@@UEAA@XZ
+	??1Shape@@UEAA@XZ
+	??1Square@@UEAA@XZ
+	??1Triangle@@UEAA@XZ
+	??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+	??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@XZ
+	??Bsentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEBA_NXZ
+	??_7EquilateralTriangle@@6B@
+	??_7IsoscelesTriangle@@6B@
+	??_7Parallelogram@@6B@
+	??_7Quadrangle@@6B@
+	??_7Rectangle@@6B@
+	??_7Rhombus@@6B@
+	??_7RightTriangle@@6B@
+	??_7Shape@@6B@
+	??_7Square@@6B@
+	??_7Triangle@@6B@
+	?__empty_global_delete@@YAXPEAX@Z
+	?__empty_global_delete@@YAXPEAX_K@Z
+	?eof@?$_Narrow_char_traits@DH@std@@SAHXZ
+	?eq_int_type@?$_Narrow_char_traits@DH@std@@SA_NHH@Z
+	?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z
+	?print_info@Quadrangle@@UEBAXXZ
+	?print_info@Triangle@@UEBAXXZ

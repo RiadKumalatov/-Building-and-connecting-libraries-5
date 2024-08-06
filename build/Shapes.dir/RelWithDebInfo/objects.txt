@@ -1,0 +1,10 @@
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Shape.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Triangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Quadrangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/RightTriangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/IsoscelesTriangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/EquilateralTriangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Rectangle.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Square.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Parallelogram.obj
+D:/Study/Building-and-connecting-libraries-5/build/Shapes.dir/RelWithDebInfo/Rhombus.obj
